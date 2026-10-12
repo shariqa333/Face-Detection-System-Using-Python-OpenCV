@@ -72,6 +72,8 @@ face-detection/
 ├── requirements.txt
 └── README.md
 ```
+## Working Images
+<img width="807" height="657" alt="Proof" src="https://github.com/user-attachments/assets/1a155313-7317-43ad-a86f-fa7b2f58b445" />
 
 
 ## Conclusion

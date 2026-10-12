@@ -73,7 +73,8 @@ face-detection/
 └── README.md
 ```
 ## Working Images
-<img width="807" height="657" alt="Proof" src="https://github.com/user-attachments/assets/1a155313-7317-43ad-a86f-fa7b2f58b445" />
+<img width="789" height="646" alt="image" src="https://github.com/user-attachments/assets/f1c24456-e77f-4d6e-99a7-cba71adcffa7" />
+
 
 
 ## Conclusion

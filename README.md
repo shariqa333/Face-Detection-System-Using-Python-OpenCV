@@ -31,7 +31,7 @@ I created this project to learn the basics of computer vision and understand how
 **1. Clone this repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/face-detection.git
+git clone https://github.com/shariqa333/Face-Detection-System-Using-Python-OpenCV
 ```
 
 **2. Open the project folder**
